@@ -17,13 +17,12 @@
 # 👋 Hello, I'm Gasore Alain Valentin!  #
 ### 🌟 Web Developer | Rugby Enthusiast | Lifelong Learner  
 
-Welcome to my GitHub profile! I'm an aspiring **Information Systems and Management** professional currently pursuing my Bachelor's degree at **UNILAK** in Kigali, Rwanda. Passionate about coding, problem-solving, and building impactful projects, I combine my love for technology with my dynamic spirit as a rugby player for **1000 Hills Rugby Club**.
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects. I combine my love for technology with my dynamic spirit as a rugby player for 1000 Hills Rugby Club.
 
 ---
 
 ## 🚀 About Me  
-- **🌐 Current Role**: Web Developer @ **1000 Hills Rugby Club**  
-/* - **📖 Student**: Pursuing a Bachelor's in **Information Systems & Management**  */
+- **🌐 Current Role**: Web Developer @ **1000 Hills Rugby Club**   
 - **🏉 Rugby Player**: Proud team member of **1000 Hills Rugby**  
 - **📍 Based In**: Kigali, Rwanda  
 
