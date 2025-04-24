@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an aspiring **Information Systems and Manageme
 
 ## 🚀 About Me  
 - **🌐 Current Role**: Web Developer @ **1000 Hills Rugby Club**  
-- **📖 Student**: Pursuing a Bachelor's in **Information Systems & Management**  
+/* - **📖 Student**: Pursuing a Bachelor's in **Information Systems & Management**  */
 - **🏉 Rugby Player**: Proud team member of **1000 Hills Rugby**  
 - **📍 Based In**: Kigali, Rwanda  
 
