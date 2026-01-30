@@ -19,7 +19,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects. I combine my love for technology with my dynamic spirit as a rugby player for 1000 Hills Rugby Club.
 
----
 ## 🚀 About Me  
 - **Current Role**: Web Developer @ **1000 Hills Rugby Club**   
 - **Rugby Player**: Proud team member of **1000 Hills Rugby**  
@@ -29,9 +28,8 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 - 💻 **GitHub**: [alain-x](https://github.com/alain-x)  
 - 📸 **Instagram**: [alain_gasore](https://www.instagram.com/alain_gasore/?hl=en) - Rugby player for **1000 hills rugby[](https://www.instagram.com/1000hillsrugby/?hl=en)**  
 - 📞 **Phone**: +250 782 407 887  
----
+
 ## 🎯 Fun Facts  
 -  Outside of tech, I thrive on the rugby field with my team.  
 -  Believer in the power of tech to solve real-world problems.
----
-Feel free to explore my repositories and drop a ⭐ if you find something interesting! Let's connect and build something great together. 🚀
+ Feel free to explore my repositories and drop a ⭐ if you find something interesting! Let's connect and build something great together. 🚀
