@@ -18,54 +18,19 @@
 ### 🌟 Web Developer | Rugby Enthusiast | Lifelong Learner  
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects. I combine my love for technology with my dynamic spirit as a rugby player for 1000 Hills Rugby Club.
-
 ---
-
 ## 🚀 About Me  
-- **🌐 Current Role**: Web Developer @ **1000 Hills Rugby Club**   
-- **🏉 Rugby Player**: Proud team member of **1000 Hills Rugby**  
-- **📍 Based In**: Kigali, Rwanda  
-
- 
----
-
-## 🌟 Professional Skills  
-- **Web Development**: Expertise in building responsive, user-friendly web applications.  
-- **Backend Development**: Strong understanding of API creation and integration using **Spring Boot**.  
-- **Database Management**: Skilled in database design and optimization using **MySQL** and **Firebase**.  
-- **Network Configuration**: Hands-on experience configuring networks with **Cisco Packet Tracer**.    
-
----
-
-## 🛠️ Projects & Contributions  
-### 📦 `collect` Repository  
-Building a comprehensive project using **Spring Boot**, **Angular**, and **MySQL Workbench**. Stay tuned for updates!
-
-### 🏉 **1000 Hills Rugby Club Website**  
-Developed and maintained the official website of the rugby club to enhance visibility and engagement.
-
-### 📦 **Send-IT Courier Service App**  
-Collaborated on UI templates for user authentication, parcel delivery order management, and linking pages using HTML, CSS, and JavaScript.
-
-### ⚡ Real-Time Sports Scores  
-Created a dynamic sports scores website using **Firebase** for live updates.
-
----
- 
-
+- ** Current Role**: Web Developer @ **1000 Hills Rugby Club**   
+- ** Rugby Player**: Proud team member of **1000 Hills Rugby**  
+- ** Based In**: Kigali, Rwanda  
 ## 📫 Let's Connect!  
 - 📧 **Email**: [Send me an email](mailto:alainvalentin04@gmail.com)  
 - 💻 **GitHub**: [alain-x](https://github.com/alain-x)  
 - 📸 **Instagram**: [alain_gasore](https://www.instagram.com/alain_gasore/?hl=en) - Rugby player for **1000 hills rugby[](https://www.instagram.com/1000hillsrugby/?hl=en)**  
 - 📞 **Phone**: +250 782 407 887  
-
 ---
-
 ## 🎯 Fun Facts  
-- 🌱 Currently learning advanced **Spring Boot**, **Angular**, and **Go**.  
-- ⚽ Outside of tech, I thrive on the rugby field with my team.  
-- ✨ Believer in the power of tech to solve real-world problems.
-
+-  Outside of tech, I thrive on the rugby field with my team.  
+-  Believer in the power of tech to solve real-world problems.
 ---
-
 Feel free to explore my repositories and drop a ⭐ if you find something interesting! Let's connect and build something great together. 🚀
