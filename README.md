@@ -18,11 +18,12 @@
 ### 🌟 Web Developer | Rugby Enthusiast | Lifelong Learner  
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects. I combine my love for technology with my dynamic spirit as a rugby player for 1000 Hills Rugby Club.
+
 ---
 ## 🚀 About Me  
-- ** Current Role**: Web Developer @ **1000 Hills Rugby Club**   
-- ** Rugby Player**: Proud team member of **1000 Hills Rugby**  
-- ** Based In**: Kigali, Rwanda  
+- **Current Role**: Web Developer @ **1000 Hills Rugby Club**   
+- **Rugby Player**: Proud team member of **1000 Hills Rugby**  
+- **Based In**: Kigali, Rwanda  
 ## 📫 Let's Connect!  
 - 📧 **Email**: [Send me an email](mailto:alainvalentin04@gmail.com)  
 - 💻 **GitHub**: [alain-x](https://github.com/alain-x)  
